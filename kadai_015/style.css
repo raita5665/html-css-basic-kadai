@@ -9,15 +9,15 @@ html {
   color: skyblue;
 }
 .pink {
-  color: pink;
+  color:  rgb(255, 192, 203);
 }
 h1 {
   font-family: "Josefin Sans", sans-serif;
   font-size: 40px;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px 2px gray;
-  text-decoration: underline solid 3px rgb(115, 115, 114);
+   border-bottom: 1px solid;
 }
-div {
+#basic p{
   font-weight: bold;
-} 
+}
